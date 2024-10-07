@@ -36,9 +36,15 @@ namespace BookStore.Infrastructure.Repositories
             return id;
         }
 
-        public async Task<Book> GetById(Guid id)
+        public async Task<Book?> GetById(Guid id)
         {
             var bookEntity = await _dbContext.Books.SingleOrDefaultAsync(b => b.Id == id);
+
+            if (bookEntity == null)
+            {
+                return null;
+            }
+
             Book book = Book.Create(bookEntity.Id, bookEntity.Title,
                 bookEntity.Description, bookEntity.Price).book;
 
