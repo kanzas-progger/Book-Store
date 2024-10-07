@@ -1,7 +1,51 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Study Data\\PET PROJECTS\\BookStore Projct\\Backend\\BookStore.API\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A6359C-B8B2-4818-B822-CB744CBA484C}|..\\BookStore.Infrastructure\\BookStore.Infrastructure.csproj|d:\\study data\\pet projects\\bookstore projct\\backend\\bookstore.infrastructure\\repositories\\booksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52334BBE-A4C2-4FC7-8353-2C5E459774B9}|..\\BookStore.Core\\BookStore.Core.csproj|d:\\study data\\pet projects\\bookstore projct\\backend\\bookstore.core\\abstractions\\ibooksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52334BBE-A4C2-4FC7-8353-2C5E459774B9}|..\\BookStore.Core\\BookStore.Core.csproj|d:\\study data\\pet projects\\bookstore projct\\backend\\bookstore.core\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A6359C-B8B2-4818-B822-CB744CBA484C}|..\\BookStore.Infrastructure\\BookStore.Infrastructure.csproj|d:\\study data\\pet projects\\bookstore projct\\backend\\bookstore.infrastructure\\entities\\bookentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A6359C-B8B2-4818-B822-CB744CBA484C}|..\\BookStore.Infrastructure\\BookStore.Infrastructure.csproj|d:\\study data\\pet projects\\bookstore projct\\backend\\bookstore.infrastructure\\bookstoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BEBC9B2-33BB-41E9-8F3D-159C2B9F35D7}|BookStore.API.csproj|d:\\study data\\pet projects\\bookstore projct\\backend\\bookstore.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1BEBC9B2-33BB-41E9-8F3D-159C2B9F35D7}|BookStore.API.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A6359C-B8B2-4818-B822-CB744CBA484C}|..\\BookStore.Infrastructure\\BookStore.Infrastructure.csproj|d:\\study data\\pet projects\\bookstore projct\\backend\\bookstore.infrastructure\\migrations\\bookstoredbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A6359C-B8B2-4818-B822-CB744CBA484C}|..\\BookStore.Infrastructure\\BookStore.Infrastructure.csproj|d:\\study data\\pet projects\\bookstore projct\\backend\\bookstore.infrastructure\\migrations\\20241006192224_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BEBC9B2-33BB-41E9-8F3D-159C2B9F35D7}|BookStore.API.csproj|d:\\study data\\pet projects\\bookstore projct\\backend\\bookstore.api\\docker-compose.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1BEBC9B2-33BB-41E9-8F3D-159C2B9F35D7}|BookStore.API.csproj|solutionrelative:docker-compose.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A6359C-B8B2-4818-B822-CB744CBA484C}|..\\BookStore.Infrastructure\\BookStore.Infrastructure.csproj|d:\\study data\\pet projects\\bookstore projct\\backend\\bookstore.infrastructure\\configurations\\bookconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BEBC9B2-33BB-41E9-8F3D-159C2B9F35D7}|BookStore.API.csproj|d:\\study data\\pet projects\\bookstore projct\\backend\\bookstore.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BEBC9B2-33BB-41E9-8F3D-159C2B9F35D7}|BookStore.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BEBC9B2-33BB-41E9-8F3D-159C2B9F35D7}|BookStore.API.csproj|d:\\study data\\pet projects\\bookstore projct\\backend\\bookstore.api\\bookstore.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1BEBC9B2-33BB-41E9-8F3D-159C2B9F35D7}|BookStore.API.csproj|solutionrelative:bookstore.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A6359C-B8B2-4818-B822-CB744CBA484C}|..\\BookStore.Infrastructure\\BookStore.Infrastructure.csproj|d:\\study data\\pet projects\\bookstore projct\\backend\\bookstore.infrastructure\\bookstore.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +53,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +62,168 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IBooksRepository.cs",
+              "DocumentMoniker": "D:\\Study Data\\PET PROJECTS\\BookStore Projct\\Backend\\BookStore.Core\\Abstractions\\IBooksRepository.cs",
+              "RelativeDocumentMoniker": "..\\BookStore.Core\\Abstractions\\IBooksRepository.cs",
+              "ToolTip": "D:\\Study Data\\PET PROJECTS\\BookStore Projct\\Backend\\BookStore.Core\\Abstractions\\IBooksRepository.cs",
+              "RelativeToolTip": "..\\BookStore.Core\\Abstractions\\IBooksRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T07:51:11.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BooksRepository.cs",
+              "DocumentMoniker": "D:\\Study Data\\PET PROJECTS\\BookStore Projct\\Backend\\BookStore.Infrastructure\\Repositories\\BooksRepository.cs",
+              "RelativeDocumentMoniker": "..\\BookStore.Infrastructure\\Repositories\\BooksRepository.cs",
+              "ToolTip": "D:\\Study Data\\PET PROJECTS\\BookStore Projct\\Backend\\BookStore.Infrastructure\\Repositories\\BooksRepository.cs",
+              "RelativeToolTip": "..\\BookStore.Infrastructure\\Repositories\\BooksRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T07:12:27.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Study Data\\PET PROJECTS\\BookStore Projct\\Backend\\BookStore.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "D:\\Study Data\\PET PROJECTS\\BookStore Projct\\Backend\\BookStore.API\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-06T17:59:52.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "docker-compose.yaml",
+              "DocumentMoniker": "D:\\Study Data\\PET PROJECTS\\BookStore Projct\\Backend\\BookStore.API\\docker-compose.yaml",
+              "RelativeDocumentMoniker": "docker-compose.yaml",
+              "ToolTip": "D:\\Study Data\\PET PROJECTS\\BookStore Projct\\Backend\\BookStore.API\\docker-compose.yaml",
+              "RelativeToolTip": "docker-compose.yaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-10-06T18:47:12.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookConfiguration.cs",
+              "DocumentMoniker": "D:\\Study Data\\PET PROJECTS\\BookStore Projct\\Backend\\BookStore.Infrastructure\\Configurations\\BookConfiguration.cs",
+              "RelativeDocumentMoniker": "..\\BookStore.Infrastructure\\Configurations\\BookConfiguration.cs",
+              "ToolTip": "D:\\Study Data\\PET PROJECTS\\BookStore Projct\\Backend\\BookStore.Infrastructure\\Configurations\\BookConfiguration.cs",
+              "RelativeToolTip": "..\\BookStore.Infrastructure\\Configurations\\BookConfiguration.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T17:22:36.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookEntity.cs",
+              "DocumentMoniker": "D:\\Study Data\\PET PROJECTS\\BookStore Projct\\Backend\\BookStore.Infrastructure\\Entities\\BookEntity.cs",
+              "RelativeDocumentMoniker": "..\\BookStore.Infrastructure\\Entities\\BookEntity.cs",
+              "ToolTip": "D:\\Study Data\\PET PROJECTS\\BookStore Projct\\Backend\\BookStore.Infrastructure\\Entities\\BookEntity.cs",
+              "RelativeToolTip": "..\\BookStore.Infrastructure\\Entities\\BookEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T17:23:21.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\Study Data\\PET PROJECTS\\BookStore Projct\\Backend\\BookStore.Core\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "..\\BookStore.Core\\Models\\Book.cs",
+              "ToolTip": "D:\\Study Data\\PET PROJECTS\\BookStore Projct\\Backend\\BookStore.Core\\Models\\Book.cs",
+              "RelativeToolTip": "..\\BookStore.Core\\Models\\Book.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAtwBMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T17:04:24.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookStoreDbContext.cs",
+              "DocumentMoniker": "D:\\Study Data\\PET PROJECTS\\BookStore Projct\\Backend\\BookStore.Infrastructure\\BookStoreDbContext.cs",
+              "RelativeDocumentMoniker": "..\\BookStore.Infrastructure\\BookStoreDbContext.cs",
+              "ToolTip": "D:\\Study Data\\PET PROJECTS\\BookStore Projct\\Backend\\BookStore.Infrastructure\\BookStoreDbContext.cs",
+              "RelativeToolTip": "..\\BookStore.Infrastructure\\BookStoreDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T17:14:55.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20241006192224_Initial.cs",
+              "DocumentMoniker": "D:\\Study Data\\PET PROJECTS\\BookStore Projct\\Backend\\BookStore.Infrastructure\\Migrations\\20241006192224_Initial.cs",
+              "RelativeDocumentMoniker": "..\\BookStore.Infrastructure\\Migrations\\20241006192224_Initial.cs",
+              "ToolTip": "D:\\Study Data\\PET PROJECTS\\BookStore Projct\\Backend\\BookStore.Infrastructure\\Migrations\\20241006192224_Initial.cs",
+              "RelativeToolTip": "..\\BookStore.Infrastructure\\Migrations\\20241006192224_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T19:22:34.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookStoreDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\Study Data\\PET PROJECTS\\BookStore Projct\\Backend\\BookStore.Infrastructure\\Migrations\\BookStoreDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "..\\BookStore.Infrastructure\\Migrations\\BookStoreDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\Study Data\\PET PROJECTS\\BookStore Projct\\Backend\\BookStore.Infrastructure\\Migrations\\BookStoreDbContextModelSnapshot.cs",
+              "RelativeToolTip": "..\\BookStore.Infrastructure\\Migrations\\BookStoreDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T19:22:37.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BookStore.API.csproj",
+              "DocumentMoniker": "D:\\Study Data\\PET PROJECTS\\BookStore Projct\\Backend\\BookStore.API\\BookStore.API.csproj",
+              "RelativeDocumentMoniker": "BookStore.API.csproj",
+              "ToolTip": "D:\\Study Data\\PET PROJECTS\\BookStore Projct\\Backend\\BookStore.API\\BookStore.API.csproj",
+              "RelativeToolTip": "BookStore.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-06T17:34:04.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BookStore.Infrastructure.csproj",
+              "DocumentMoniker": "D:\\Study Data\\PET PROJECTS\\BookStore Projct\\Backend\\BookStore.Infrastructure\\BookStore.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "..\\BookStore.Infrastructure\\BookStore.Infrastructure.csproj",
+              "ToolTip": "D:\\Study Data\\PET PROJECTS\\BookStore Projct\\Backend\\BookStore.Infrastructure\\BookStore.Infrastructure.csproj",
+              "RelativeToolTip": "..\\BookStore.Infrastructure\\BookStore.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-06T17:13:46.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Study Data\\PET PROJECTS\\BookStore Projct\\Backend\\BookStore.API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Study Data\\PET PROJECTS\\BookStore Projct\\Backend\\BookStore.API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T13:12:26.029Z"
             }
           ]
         }
